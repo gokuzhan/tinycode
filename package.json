@@ -4,7 +4,8 @@
   "description": "A simple syntax parsing engine.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rimraf lib types && tsc -p .",
+    "pretty": "prettier src --write"
   },
   "dependencies": {
     "prettier": "^2.1.2",
