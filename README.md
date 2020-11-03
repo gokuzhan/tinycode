@@ -1,3 +1,3 @@
-# short-code
+# tinycode
 
-A simple syntax parsing engine.
+A simple syntax (shortcode) parsing engine.
