@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "build": "rimraf lib && tsc -p .",
+    "build": "rimraf lib types && tsc -p .",
     "pretty": "prettier src --write",
     "test": "jest --config jestconfig.json",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
