@@ -1,5 +1,5 @@
 {
-  "name": "short-code",
+  "name": "tinycode",
   "version": "1.0.0",
   "description": "A simple syntax parsing engine.",
   "main": "lib/index.js",
@@ -15,11 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gokuzhan/short-code.git"
+    "url": "git+https://github.com/gokuzhan/tinycode.git"
   },
   "keywords": [
     "short-code",
+    "tinycode",
     "short",
+    "tiny",
     "code",
     "syntax",
     "simple",
@@ -28,7 +30,7 @@
   "author": "Gokul",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/gokuzhan/short-code/issues"
+    "url": "https://github.com/gokuzhan/tinycode/issues"
   },
-  "homepage": "https://github.com/gokuzhan/short-code#readme"
+  "homepage": "https://github.com/gokuzhan/tinycode#readme"
 }
